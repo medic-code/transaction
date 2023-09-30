@@ -23,8 +23,7 @@ TrueLayer API - third party dependancy to access personal bank account
 2. To show my outgoings each month so that I can track outcomes each month
 3. To show my outgoings in categories of spending so that I can see where money is being used over time
 4. To update outgoings and incomings as they occur so that I can automate transaction gathering
-5. I want to see the total balance each month
-6. I want to see the balance in the current day 
+5. I want to see the total balance each month so that I can track financial status
 
 ### Wireframes + prototypes
 ### Error Handling
