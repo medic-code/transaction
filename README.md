@@ -18,3 +18,5 @@ Additional features
 2. Access to all transactions and categories placed in a list
 3. Be able to change categories of transactions if transactions are in wrong category
 4. Showcase test data for others people
+5. Integrate other platforms to pull in other data about investments
+6. Integrate current debt situation from various locations? 
